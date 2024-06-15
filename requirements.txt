@@ -1,0 +1,5 @@
+ctransformers==0.2.5  #this is required if you want to use Langchain
+sentence-transformers=2.2.2   #To download the model from HuggingFace, i want to download embedding
+pinecone-client
+langchain==0.0.225
+flask
